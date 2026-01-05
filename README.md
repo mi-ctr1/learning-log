@@ -7,10 +7,10 @@ This repository documents my journey learning software engineering while complet
 - Build a strong foundation in web development
 - Learn Git & GitHub through daily use
 - Create real, documented projects
-- Become job-ready by the end of the year
+- Become employable by the end of the year (2026)
 
 ## Current Focus
-- Sophia Courses (degree acceleration)
+- Sophia Learning Courses (degree acceleration)
 - The Odin Project – Foundations
 - Git & GitHub fundamentals
 
