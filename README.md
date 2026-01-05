@@ -15,7 +15,7 @@ This repository documents my journey learning software engineering while complet
 - Git & GitHub fundamentals
 
 ## Daily Logs (Small Wins & Reflections)
-- 2026-01-04.md
+- [Daily Log Jan 4](2026-01-04.md)
 
 ## Weekly Logs
 - [Week 1](week-1.md)
