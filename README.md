@@ -21,6 +21,9 @@ This repository documents my journey learning software engineering while complet
 - [Week 1](week-1.md)
 - [Week 2](week-2.md)
 
+## Practice
+- StackBlitz coursework and sandbox projects (course-driven exercises)
+
 ## Tech Stack (in progress)
 - HTML
 - CSS
