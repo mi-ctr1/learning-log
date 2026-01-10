@@ -12,7 +12,7 @@ This repository documents my journey learning software engineering while complet
 ## Current Focus
 - Sophia Learning Courses (degree acceleration)
 - The Odin Project – Foundations
-- Git & GitHub fundamentals
+- TheCodingTrain - Creative coding
 
 ## Weekly Logs
 - [Week 1](week-1.md)
