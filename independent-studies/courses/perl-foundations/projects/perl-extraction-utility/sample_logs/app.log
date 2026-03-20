@@ -1,1 +1,15 @@
-
+2026-03-03 08:14:21 INFO  Connection established from 192.168.1.14 to server node01
+2026-03-03 08:14:23 WARN  Failed login attempt from 10.23.54.201 user=admin
+2026-03-03 08:14:25 INFO  Heartbeat received from 172.16.0.5
+2026-03-03 08:15:02 ERROR Packet loss detected from 192.168.1.14 interface=eth0
+2026-03-03 08:15:11 INFO  Backup node responded from 10.0.0.44
+2026-03-03 08:15:20 WARN  Suspicious scan detected from 203.44.122.88
+2026-03-03 08:15:33 INFO  API request received from 192.168.10.77 endpoint=/health
+2026-03-03 08:16:04 ERROR Timeout contacting client 172.20.3.9
+2026-03-03 08:16:11 INFO  Session created for user=mi from 192.168.1.32
+2026-03-03 08:16:18 WARN  Rate limit exceeded for IP 45.33.12.199
+2026-03-03 08:16:27 INFO  Monitoring agent check-in from 10.10.10.10
+2026-03-03 08:16:44 ERROR Unauthorized access attempt from 8.8.8.8
+2026-03-03 08:17:02 INFO  File sync completed from 172.31.255.12
+2026-03-03 08:17:18 WARN  Firewall blocked connection from 185.220.101.45
+2026-03-03 08:17:29 INFO  Connection closed for client 192.168.1.14
